@@ -97,6 +97,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Sao Joao da Boa Vista](https://www.facebook.com/groups/free.code.camp.sao.joao.da.boa.vista/)
   - [Sao Paulo](https://www.facebook.com/groups/free.code.camp.sao.paulo/)
   - [Sorocaba](https://www.facebook.com/groups/free.code.camp.sorocaba.sp/)
+  - [Teresina](https://www.facebook.com/groups/free.code.camp.teresina.piaui/)
   - [Uberlandia](https://www.facebook.com/groups/free.code.camp.uberlandia/)
   - [Vitória](https://www.facebook.com/groups/free.code.camp.vitoria.e.regiao.metropolitana.es/)
 - Bulgaria
