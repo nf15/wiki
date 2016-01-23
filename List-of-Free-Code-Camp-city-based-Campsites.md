@@ -904,6 +904,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - New Jersey
     - [Atlantic City](https://www.facebook.com/groups/free.code.camp.atlantic.city/) 
     - [Bordentown](https://www.facebook.com/groups/free.code.camp.bordentown/)
+    - [Clifton](https://www.facebook.com/groups/free.code.camp.clifton.nj/)
     - [Freehold](https://www.facebook.com/groups/free.code.camp.freehold/)
     - [Jersey City](https://www.facebook.com/groups/free.code.camp.jersey.city.new.jersey/)
     - [New Brunswick](https://www.facebook.com/groups/free.code.camp.new.brunswick.new.jersey/)
