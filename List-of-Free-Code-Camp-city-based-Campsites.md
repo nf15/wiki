@@ -330,6 +330,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Rajkot](https://www.facebook.com/groups/free.code.camp.rajkot/)
   - [Roorke](https://www.facebook.com/groups/542330719257663/)
   - [Salem](https://www.facebook.com/groups/free.code.camp.salem/)
+  - [Shillong](https://www.facebook.com/groups/free.code.camp.shillong/)
   - [Shimla](https://www.facebook.com/groups/free.code.camp.shimla/)
   - [Sialkot](https://www.facebook.com/groups/free.code.camp.sialkot/)
   - [Siliguri](https://www.facebook.com/groups/free.code.camp.siliguri/)
@@ -936,7 +937,9 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [Jacksonville](https://www.facebook.com/groups/free.code.camp.jacksonville.nc/)
     - [Raleigh](https://www.facebook.com/groups/free.code.camp.raleigh/)
     - [Research Triangle Park](https://www.facebook.com/groups/free.code.camp.rtp)
+    - [Wake Forest](https://www.facebook.com/groups/free.code.camp.wake.forest)
     - [Wilmington](https://www.facebook.com/groups/free.code.camp.wilmington.nc/)
+    - [Winston Salem](https://www.facebook.com/groups/943880429040873/)
     - [Greensboro](https://www.facebook.com/groups/freecodecampgreensboro/)
   - North Dakota
     - [Bismarck](https://www.facebook.com/groups/free.code.camp.bismarck.north.dakota/)
