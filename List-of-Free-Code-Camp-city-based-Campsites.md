@@ -718,6 +718,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [Verde Valley](https://www.facebook.com/groups/free.code.camp.northern.arizona/)
   - Arkansas
     - [Fayetteville](https://www.facebook.com/groups/free.code.camp.fayetteville.arkansas/)
+    - [Jonesboro](https://www.facebook.com/groups/free.code.camp.jonesboro.ar/)
     - [Little Rock](https://www.facebook.com/groups/free.code.camp.little.rock/)
   - California
     - [Alameda](https://www.facebook.com/groups/free.code.camp.berkeley/)
